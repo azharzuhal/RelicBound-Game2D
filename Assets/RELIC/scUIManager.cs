@@ -6,7 +6,7 @@ public class scUIManager : MonoBehaviour
     public static scUIManager akses;
 
     [Header("Hubungkan Panel Game Over")]
-    public GameObject panelGameOver; // <-- KOTAK BARU UNTUK PANEL
+    public GameObject panelGameOver; // KOTAK BARU UNTUK PANEL
 
     [Header("UI Teks Angka")]
     public Text textPotion;

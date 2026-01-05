@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using System.Collections; // Wajib ada untuk fitur Tunggu/Jeda
+using System.Collections;
 
 public class scMenuManager : MonoBehaviour
 {

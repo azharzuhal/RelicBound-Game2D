@@ -1,15 +1,15 @@
 using UnityEngine;
-using UnityEngine.UI; // PENTING: Pakai UI biasa
+using UnityEngine.UI;
 using System.Collections;
-using UnityEngine.SceneManagement; // Wajib untuk pindah scene
+using UnityEngine.SceneManagement;
 
 public class DialogueUI : MonoBehaviour
 {
     [Header("Masukkan Text Legacy di Sini")]
-    [SerializeField] private Text textLabel; // Tipe data Text Legacy
+    [SerializeField] private Text textLabel;
 
     [Header("Nama Scene Game")]
-    public string namaSceneGame = "Game1"; // Pastikan nama scene benar
+    public string namaSceneGame = "Game1";
 
     private TypewriterEffect typewriter;
 

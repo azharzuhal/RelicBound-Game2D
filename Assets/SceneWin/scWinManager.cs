@@ -6,7 +6,7 @@ using System.Collections;
 public class scWinManager : MonoBehaviour
 {
     [Header("Navigasi")]
-    public string namaSceneMenu = "Play"; // <-- Pastikan nama scene menu kamu "Play"
+    public string namaSceneMenu = "Play"; // Pastikan nama scene menu kamu "Play"
 
     [Header("UI Text")]
     public Text textPotion;

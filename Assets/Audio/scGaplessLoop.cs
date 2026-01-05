@@ -3,7 +3,7 @@ using UnityEngine;
 public class scGaplessLoop : MonoBehaviour
 {
     [Header("Hubungkan ke AudioGameplay")]
-    public AudioSource sumberAudioUtama; // <-- Tarik object AudioGameplay ke sini
+    public AudioSource sumberAudioUtama; // Tarik object AudioGameplay ke sini
 
     [Header("File Lagu")]
     public AudioClip musicClip;
