@@ -1,6 +1,7 @@
 # RelicBound - 2D Adventure Horror Strategy Game
 
-RelicBound adalah game petualangan horor berbalut strategi berbasis 2D dengan gaya visual Pixel Art. Game ini dikembangkan menggunakan Unity Engine, di mana pemain harus menjelajahi lingkungan yang mencekam, memecahkan teka-teki, dan menyusun strategi untuk bertahan hidup.
+Game ini mengajak pemain menjelajahi sebuah goa berhantu yang hanya muncul setiap 100 tahun sekali untuk menemukan Relik Misterius. Namun perjalanan tidak mudah, karena goa tersebut dijaga oleh The Warden, sosok makhluk asing penjaga relik yang siap menghabisi siapa pun yang lengah.
+Dengan atmosfer mencekam, pencahayaan minim dari obor, serta gameplay berpindah dan melompat antar platform, pemain dituntut untuk bertahan hidup dan mengambil keputusan strategis: memilih jalur aman atau jalan pintas berisiko. Sistem checkpoint memungkinkan pemain melanjutkan permainan tanpa harus mengulang dari awal, namun satu kesalahan dapat berujung pada kematian instan.
 
 ## 🛠️ Tech Stack & Tools
 * **Game Engine:** Unity
@@ -10,18 +11,18 @@ RelicBound adalah game petualangan horor berbalut strategi berbasis 2D dengan ga
 
 ---
 
-## 🔑 Kontribusi & Cakupan Kerja
+## 🔑 Peran & Cakupan Kerja (Tim)
 
-Dalam pengembangan proyek ini, saya bertanggung jawab penuh pada aspek **Visual & UI Design** serta berkontribusi aktif dalam **Core Development & Quality Assurance**:
+Dalam pengembangan proyek kelompok ini, saya berfokus sebagai **UI/UX & Visual Designer** serta berkolaborasi aktif dengan tim dalam fase **Development & Quality Assurance**:
 
-### 1. Visual & UI Design
-* **Pixel Art Assets:** Merancang dan mengimplementasikan seluruh aset visual 2D meliputi animasi karakter, *tilemap* goa (dungeon), serta elemen lingkungan (*environment*) seperti jalan, air, dan pepohonan yang mendukung atmosfer horor.
-* **User Interface (UI):** Mendesain dan menyusun arsitektur antarmuka pengguna yang intuitif, mencakup *Main Menu*, *Pause Menu*, *Settings*, hingga *Dialog System* untuk narasi game.
+### 1. UI/UX & Visual Design (Fokus Utama)
+* **Pixel Art Assets:** Merancang aset visual 2D meliputi animasi karakter, *tilemap* goa (dungeon), serta elemen lingkungan (*environment*) untuk membangun atmosfer horor.
+* **User Interface (UI):** Mendesain tata letak dan arsitektur antarmuka pengguna, mencakup *Main Menu*, *Pause Menu*, *Settings*, hingga *Dialog System*.
 
-### 2. Development & Quality Assurance
-* **Gameplay Mechanics:** Berkontribusi dalam pengkodean mekanik utama game dan logika interaksi objek menggunakan C#.
-* **Audio Integration:** Mengintegrasikan sistem audio adaptif untuk meningkatkan efek imersif dan ketegangan selama permainan.
-* **Testing & Bug Fixing:** Melakukan proses *debugging* berkala dan pengujian fungsionalitas game guna memastikan performa stabil hingga tahap akhir *build production* (.exe).
+### 2. Development & Quality Assurance (Kolaborasi)
+* **Gameplay Mechanics:** Ikut serta dalam mengimplementasikan logika mekanik utama game dan interaksi objek menggunakan C#.
+* **Audio Integration:** Membantu integrasi sistem audio adaptif untuk meningkatkan efek imersif selama permainan.
+* **Testing & Bug Fixing:** Mengambil peran dalam proses *debugging* berkala dan pengujian fungsionalitas game untuk memastikan stabilitas hingga tahap *build final* (.exe).
 
 ---
 
