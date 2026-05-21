@@ -25,12 +25,8 @@ Dalam pengembangan proyek ini, saya bertanggung jawab penuh pada aspek **Visual 
 
 ---
 
-## 🎮 Demo & Screenshot
+## 🎮 Demo Game
 
-> 💡 *Tambahkan link screenshot atau gif gameplay kamu di bawah ini agar repositori lebih menarik.*
-
-| Main Menu Interface | Exploration Gameplay |
-|---|---|
-| ![Main Menu](<img width="3840" height="2160" alt="CaraBermain" src="https://github.com/user-attachments/assets/5efd7fdf-5bc4-47c3-8de9-46a902325008" />) | ![Gameplay]((https://youtu.be/kyE22v51PdQ)) |
+[Gameplay](https://youtu.be/kyE22v51PdQ)
 
 ---
